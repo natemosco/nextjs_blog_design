@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "./layout.module.scss";
 import utilStyles from "../styles/utils.module.css";
-import Link from "next/link";
+import Link from "next/Link";
 
 const name = "Nate Mosco";
 export const siteTitle = "Next.js Sample Website";
